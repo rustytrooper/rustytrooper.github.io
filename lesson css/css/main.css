@@ -1,0 +1,29 @@
+h1 {
+    color: red;
+}
+
+h2{
+    background:green;
+    color: white; 
+}
+
+.new {
+  height: 100px;
+  padding-left: 50px;
+}
+
+.link {
+    background: blue;
+    color: white;
+    height: 100px;
+    width: 100px;
+    margin-bottom: 100px;
+}
+
+.one, .two, .three {
+   border: 2px solid black;
+}
+
+.a {
+margin: 50px, 100px,100px;
+}
